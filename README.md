@@ -1,2 +1,2 @@
 # virtualmouse
-#use 1 index finger to move your mouse
+### use 1 index finger to move your mouse
